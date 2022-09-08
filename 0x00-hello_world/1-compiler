@@ -1,4 +1,3 @@
-
 #!/bin/bash
-gcc -S $cfile
-clear
+gcc -c $CFILE
+^C
